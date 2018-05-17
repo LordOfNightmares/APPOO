@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/player.png</file>
+        <file>images/enemy.png</file>
+        <file>images/bullet.png</file>
+        <file>images/gameOver.png</file>
+        <file>images/bg.png</file>
+        <file>sound/laser.mp3</file>
+    </qresource>
+</RCC>
